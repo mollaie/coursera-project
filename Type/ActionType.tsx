@@ -1,0 +1,15 @@
+export type ActionType =
+  | "ADD_TO_CART"
+  | "REMOVE_FROM_CART"
+  | "AUTHENTICATE"
+  | "LOGOUT"
+  | "SET_ORDERS"
+  | "ADD_ORDER"
+  | "INPUT_CHANGE"
+  | "INPUT_BLUR"
+  | "FORM_INPUT_UPDATE"
+  | "SET_PRODUCTS"
+  | "SET_PRODUCTS"
+  | "CREATE_PRODUCT"
+  | "UPDATE_PRODUCT"
+  | "DELETE_PRODUCT";

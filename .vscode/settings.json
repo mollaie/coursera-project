@@ -1,0 +1,10 @@
+{
+    "compile-hero.disable-compile-files-on-did-save-code": false,
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+    }
+}
